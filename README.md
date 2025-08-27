@@ -1,5 +1,5 @@
 # Living Documentation
-Central repository for Penn Robotics documentation that uses Markdown or other GitHub-supported features.
+Central repository for Penn Robotics documentation.
 
 ## Onshape & CAD
 
