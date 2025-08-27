@@ -1,13 +1,26 @@
 # Living Documentation
-Where Penn Robotics stores its documentation that needs markdown or some feature of Github.
+Central repository for Penn Robotics documentation that uses Markdown or other GitHub-supported features.
 
-## Onshape Guides
-Onshape guides can be found in the [`onshape/setup.md`](onshape/setup.md) file.  
-Refer to that document for setup instructions and best practices.
+## Onshape & CAD
+
+### Setup
+The Onshape setup instructions can be found in [`onshape/setup.md`](onshape/setup.md).  
+Follow that document for installation steps and best practices.
+
+### Learning Onshape
+Begin learning Onshape by reviewing [`onshape/learning.md`](onshape/learning.md).  
+This guide is suitable for both brand-new CAD users and those transitioning from Fusion.
+
+## Software 
+
+### TODO
 
 ## Adding New Sections
-When contributing to this living documentation:
-- Add a new top-level section using a second-level header (`##`).
-- Keep section titles short and descriptive.
-- Place detailed guides or long content in their own `.md` file inside the appropriate folder, then link to it here.
-- Use consistent formatting (lists, code blocks, links) for clarity.
+When contributing to this documentation:
+
+- Use a new **top-level section** with a second-level header (`##`).  
+- Keep section titles **short and descriptive**.  
+- If external resources like Google Slides or other tools are more appropriate, link to them here and provide guidance on navigating them.  
+- For detailed guides or longer content, create a separate `.md` file in the relevant folder and link to it here.  
+- Maintain **consistent formatting** (lists, code blocks, links) for clarity.  
+- Simplify content wherever possible. These guides should be **self-explanatory**.
