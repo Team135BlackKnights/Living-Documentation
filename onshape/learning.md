@@ -2,7 +2,7 @@
 
 Use the learning course found on [FRCDesign.org](https://frcdesign.org/learning-course/).  
 
-**Updated Last:** 8/26/2025
+
 
 ---
 
@@ -23,3 +23,5 @@ Use the learning course found on [FRCDesign.org](https://frcdesign.org/learning-
    - The more you practice and absorb, the more you will be able to do in later stages.  
 
 **Reminder:** Mastery of Stage 1 is essential. Take your time, observe details, and experiment when needed. Your future work in CAD and Onshape will rely heavily on these fundamentals.
+---
+**Updated Last:** 8/26/2025
