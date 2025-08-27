@@ -1,8 +1,6 @@
 # Penn Robotics Living Documentation
 
-This repository contains the central documentation for Penn Robotics, including CAD setup, learning resources, and FeatureScripts.  
-
-We now use the **GitHub Wiki** for easy navigation, collapsible sections, and linking between pages.
+This repository contains the central documentation for Penn Robotics, including Design, Software, and eventually Impact/Media/Business/Wiring.  
 
 ---
 
