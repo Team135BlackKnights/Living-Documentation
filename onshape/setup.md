@@ -1,3 +1,7 @@
+# [MKCad](https://cad.onshape.com/appstore/apps/Manufacturers%20Models/6004ec5e83c40b107c183347)
+
+Get MKCad so you can access all FRC specific parts easily. These are all mass/material/appearance accurate, allowing for extremely easy accurate assembly creation.
+
 # FeatureScripts
 
 Get these FeatureScripts to make CAD work faster and cleaner. This will take around 20–30 minutes to complete.  
@@ -27,6 +31,8 @@ To install, follow the steps shown in this GIF:
   Click on faces → auto fillets all edges.  
   <video src="https://github.com/user-attachments/assets/3b44203a-06de-4acc-a5d7-28229a2d4057" controls loop autoplay muted width="600"></video>
   </details>
+- [Gusset Generator](https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/80b86b695b75c4dcf2be5a7f)  
+  Generates a gusset from a given set of holes. This should be used sparingly, as its quite intensive on Onshape parts.
 
 - [Isogrid Pattern](https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/v/a4ba5988fe2d82851cee17d1/e/0d7c22c952c5c2ee2cfb1e43)  
   Generates an isogrid pattern and (optionally) extrudes it. Often paired with **Part Lighten**.
@@ -124,3 +130,6 @@ To install, follow the steps shown in this GIF:
 
 - [Sprocket](https://cad.onshape.com/documents/96d32fd4fe5341563a402ecd/v/042060f84c30390d82d806f8/e/2ef2f094f0e2f11b3aa53e)  
   Generate sprockets (#25, #35, custom bores, etc.).
+
+---
+**Updated Last:** 8/26/2025
