@@ -1,26 +1,33 @@
-# Living Documentation
-Central repository for Penn Robotics documentation.
+# Penn Robotics Living Documentation
 
-## Onshape & CAD
+This repository contains the central documentation for Penn Robotics, including CAD setup, learning resources, and FeatureScripts.  
 
-### Setup
-The Onshape setup instructions can be found in [`onshape/setup.md`](onshape/setup.md).  
-Follow that document for installation steps and best practices.
+We now use the **GitHub Wiki** for easy navigation, collapsible sections, and linking between pages.
 
-### Learning Onshape
-Begin learning Onshape by reviewing [`onshape/learning.md`](onshape/learning.md).  
-This guide is suitable for both brand-new CAD users and those transitioning from Fusion.
+---
 
-## Software 
+## Using the [Penn Robotics Wiki](https://github.com/Team135BlackKnights/Living-Documentation/wiki)
 
-### TODO
+1. **Access the Wiki**  
+   - Click on the **Wiki** tab at the top of this repository, or go directly to: [Penn Robotics Wiki](https://github.com/Team135BlackKnights/Living-Documentation/wiki)  
+   - The Wiki contains all pages for Onshape, CAD learning, FeatureScripts, and software guides.
 
-## Adding New Sections
-When contributing to this documentation:
+2. **Adding New Pages**  
+   - Click **New Page** in the Wiki.  
+   - Give the page a **clear, descriptive title**.  
+   - Use Markdown to format the page (headers, lists, code blocks, links).  
+   - For links to other Wiki pages, use `[[Page Name]]` syntax.  
+     - Example: `[[Learning Onshape]]`  
+     - Example with custom display text: `[[Learning Onshape|Begin Learning]]`
 
-- Use a new **top-level section** with a second-level header (`##`).  
-- Keep section titles **short and descriptive**.  
-- If external resources like Google Slides or other tools are more appropriate, link to them here and provide guidance on navigating them.  
-- For detailed guides or longer content, create a separate `.md` file in the relevant folder and link to it here.  
-- Maintain **consistent formatting** (lists, code blocks, links) for clarity.  
-- Simplify content wherever possible. These guides should be **self-explanatory**.
+3. **Linking to Sections Within a Page**  
+   - Use `[[Page Name#Header|Display Text]]` to link directly to a specific section.  
+     - Example: `[[Onshape Setup#3D Printed|3D Printed]]`
+
+4. **Organizing the Sidebar**  
+   - The Wiki sidebar can be customized using a `_Sidebar.md` page.  
+   - Include links to all main sections and optionally use `<details>` to collapse subsections.
+
+---
+
+**Updated Last:** 8/26/2025
